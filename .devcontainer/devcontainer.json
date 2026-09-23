@@ -1,6 +1,5 @@
 {
   "name": "offer-trading",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "forwardPorts": [3002],
   "postCreateCommand": "npm install"
 }
